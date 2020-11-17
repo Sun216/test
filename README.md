@@ -13,17 +13,17 @@
 ## 信息素养课件表格  
 章节|名称|链接
 :-:|:-:|:-:
-第一章|01-course-verview|[下载][https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/01-course-verview.pptx]
-第二章|02-virtual-machine|[下载][https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/02-virtual-machine.pptx]
-第三章|03-computer-operation-and-managerment|[下载][https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/03-computer-operation-and-managerment.ppt]
-第四章|04-web-browser-processes|[下载][https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/04-web-browser-processes.ppt]
-第五章|05-DOS|[下载][https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/05-DOS.pptx]
-第六章|06-information-management and 06-mobile-internet|[下载][https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/06-information-management%20and%2006-mobile-internet.ppt]
-第七章|07-Github|[下载][https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/07-Github.pptx]
-第八章|08-XMind|[下载][https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/08-XMind.pptx]
-第九章|09-word|[下载][https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/09-word.ppt]
-第十章|10-Excel|[下载][https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/10-Excel.ppt]
-第十一章|11-PowerPoint|[下载][https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/11-PowerPoint.ppt]
+第一章|01-course-verview|[下载](https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/01-course-verview.pptx)
+第二章|02-virtual-machine|[下载](https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/02-virtual-machine.pptx)
+第三章|03-computer-operation-and-managerment|[下载](https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/03-computer-operation-and-managerment.ppt)
+第四章|04-web-browser-processes|[下载](https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/04-web-browser-processes.ppt)
+第五章|05-DOS|[下载](https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/05-DOS.pptx)
+第六章|06-information-management and 06-mobile-internet|[下载](https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/06-information-management%20and%2006-mobile-internet.ppt)
+第七章|07-Github|[下载](https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/07-Github.pptx)
+第八章|08-XMind|[下载](https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/08-XMind.pptx)
+第九章|09-word|[下载](https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/09-word.ppt)
+第十章|10-Excel|[下载](https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/10-Excel.ppt)
+第十一章|11-PowerPoint|[下载](https://github.com/Sun216/test/blob/main/%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB%E8%AF%BE%E4%BB%B6/11-PowerPoint.ppt)
 ## 插入代码或代码块  
 ### 插入代码块  
 ```
